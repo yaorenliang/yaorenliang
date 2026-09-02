@@ -1,4 +1,4 @@
-## Hi, I'm Yao Renliang (壬亮) 👋
+## Hi, I'm Ray Yao (姚壬亮) 👋
 
 **Java 后端研发 · 量化工程师** — Backend Engineer & Quant Researcher
 
