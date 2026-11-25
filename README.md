@@ -2,8 +2,8 @@
 
 **Java 后端研发 · 量化工程师** — Backend Engineer & Quant Researcher
 
-- 🔭 日常在 Java 微服务与量化研究链路之间切换
-- 🧪 量化方向：因子挖掘与预筛、LightGBM 滚动训练、回测管线、窗口漂移诊断
+- 🔭 日常在 Java 微服务与模型研究链路之间切换
+- 🧪 ML方向：多变量回归交通流量预测、Transformer、窗口漂移诊断
 - 🤖 AI / Agent 工程：MCP 工具与 skill 开发、LLM 应用落地
 - 🏗 工程方向：Spring Boot 微服务、任务调度、数据管道、Vue3 前端
 - 📫 Contact: yaorenliang@foxmail.com
