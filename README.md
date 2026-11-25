@@ -1,6 +1,6 @@
 ## Hi, I'm Ray Yao (姚壬亮) 👋
 
-**Java 后端研发 · 量化工程师** — Backend Engineer & Quant Researcher
+**全栈研发工程师** — Backend Engineer & Quant Researcher
 
 - 🔭 日常在 Java 微服务与模型研究链路之间切换
 - 🧪 ML方向：多变量回归交通流量预测、Transformer、窗口漂移诊断
